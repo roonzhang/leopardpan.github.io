@@ -1,12 +1,12 @@
-# Basic
-title: 潘柏信
+﻿# Basic
+title: 迷死她张
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: roonzhang
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 写作/阅读/编程
+url: "http://www.roon.pro"
 
 # Comment
 comment:
@@ -16,9 +16,9 @@ comment:
 # Social
 social:
     weibo: 5366874726 
-    github: leopardpan
+    github: roonzhang
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: roon@roon.pro
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
