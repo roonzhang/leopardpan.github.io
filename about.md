@@ -6,18 +6,6 @@ title: 迷死她张
 
 ---
 
-## 联系方式
-
-Email：[roon@roon.pro](mailto:roon@roon.pro)
-
-个人主页：[www.roon.pro](https://www.roon.pro)
-
-微信公众号 [迷死她张](http://mp.weixin.qq.com/mp/homepage?__biz=MzIxOTYyNjQ4Mg==&hid=2&sn=46f44572ae3f75a2eb60d01cbde851ad&scene=18#wechat_redirect)
-
-个人微信号 `roon93`
-
-现居住于中国广东省深圳市宝安区
-
 ## 我是谁
 
 一个在深圳工作的湖南衡阳人，码农，007社群、刘润进化岛社群成员。
@@ -40,6 +28,18 @@ Email：[roon@roon.pro](mailto:roon@roon.pro)
 ## 研究兴趣
 
 嵌入式Linux、vxWorks操作系统内核、驱动、应用程序；人工智能；区块链；多元思维模型；
+
+## 联系方式
+
+Email：[roon@roon.pro](mailto:roon@roon.pro)
+
+个人主页：[www.roon.pro](https://www.roon.pro)
+
+微信公众号 [迷死她张](http://mp.weixin.qq.com/mp/homepage?__biz=MzIxOTYyNjQ4Mg==&hid=2&sn=46f44572ae3f75a2eb60d01cbde851ad&scene=18#wechat_redirect)
+
+个人微信号 `roon93`
+
+现居住于中国广东省深圳市宝安区
 
 
 {% include comments.html %}
