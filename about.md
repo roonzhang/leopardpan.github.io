@@ -10,23 +10,32 @@ title: 关于我
 
 ## 联系方式
 
-Email：[roon@roon.pro](mailto:roon@roon.pro) </br>
-个人主页：[www.roon.pro](https://www.roon.pro) </br>
-微信公众号 [迷死她张](http://mp.weixin.qq.com/mp/homepage?__biz=MzIxOTYyNjQ4Mg==&hid=2&sn=46f44572ae3f75a2eb60d01cbde851ad&scene=18#wechat_redirect) </br>
-个人微信号 roon93 </br>
+Email：[roon@roon.pro](mailto:roon@roon.pro)
+
+个人主页：[www.roon.pro](https://www.roon.pro)
+
+微信公众号 [迷死她张](http://mp.weixin.qq.com/mp/homepage?__biz=MzIxOTYyNjQ4Mg==&hid=2&sn=46f44572ae3f75a2eb60d01cbde851ad&scene=18#wechat_redirect)
+
+个人微信号 roon93
+
 现居住于中国广东省深圳市宝安区
 
 ## 我是谁
 
 一个在深圳工作的湖南衡阳人，码农，007社群、刘润进化岛社群成员。
 
+
 大部分时间里，我在 CSDN 和 GitHub 上出没，这也说明我是深度码农，现在的工作主要是嵌入式Linux、vxWorks驱动开发。除了研究各种设备驱动程序和内核，我也炒黄瓜炖牛肉，没太多业余爱好，但是着迷于阅读和写作，业余时间基本上在得到APP和GitChat、GitHub度过。
+
 
 作为一俗人，我也喜欢听音乐看电影，尤其是快意恩仇的武侠片。
 
+
 我对对称美有无止境的追求，尤其是在编码和设计上，不允许凌乱的代码存在，不喜欢没有美感的设计，我很懒，所以喜欢各种高效率的工具和脚本；但是我喜欢思考，我相信每一个项目都有自己的哲学思想，现在的我并不完美，但是我在努力的路上。
 
+
 你以为的顿悟，其实是别人的基本功，我相信在这里写下我的所获所得，我的基本功才会更踏实；前人的思考，我们的阶梯，我希望有一天能有人在这里沿着我的思考而事半功倍。
+
 
 你好，我是`迷死她张`，愿意分享我所获所得的Mr.Zhang。
 
