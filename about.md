@@ -35,7 +35,7 @@ Email：[roon@roon.pro](mailto:roon@roon.pro)
 
 个人主页：[www.roon.pro](https://www.roon.pro)
 
-微信公众号 [迷死她张](http://mp.weixin.qq.com/mp/homepage?__biz=MzIxOTYyNjQ4Mg==&hid=2&sn=46f44572ae3f75a2eb60d01cbde851ad&scene=18#wechat_redirect)
+微信公众号 [迷死她张](http://mp.weixin.qq.com/mp/homepage?__biz=MzIxOTYyNjQ4Mg==&hid=4&sn=36c28244f4b4a44604719c1059709b7a#wechat_redirect)
 
 个人微信号 `roon93`
 
