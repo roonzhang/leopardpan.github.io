@@ -2,7 +2,7 @@
 layout: post
 title: "Linux的设备树模型"
 date: 2018-07-04
-description: "设备驱动模型"
+description: "设备树模型"
 tag: 设备驱动
 ---   
 ------
